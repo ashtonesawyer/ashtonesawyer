@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I'm @ashtonesawyer (Ash)
+- 🌱 I’m currently working on my BS in computer science
+- 📫 Reach me at [ashtonesawyer@gmail.com](mailto:ashtonesawyer@gmail.com)
 
 <!--
 **ashtonesawyer/ashtonesawyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
