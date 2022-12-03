@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [ashtonesawyer](linkto:https://github.com/ashtonesawyer/ashtonesawyer)
+# 👋 Hi there, I'm [ashtonesawyer](https://github.com/ashtonesawyer/ashtonesawyer)
 ## 👨‍🎓 I'm a BS Computer Science student at Portland State University
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning operating systems and software development
