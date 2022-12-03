@@ -6,7 +6,7 @@
 - 📫 Reach me at [ashtonesawyer@gmail.com](mailto:ashtonesawyer@gmail.com)
 
 ## 🧰 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,visualstudio,vim,unity,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,visualstudio,vim,linux,unity)](https://skillicons.dev)
 
 <!--
 **ashtonesawyer/ashtonesawyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
