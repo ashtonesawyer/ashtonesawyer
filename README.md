@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm [ashtonesawyer](https://github.com/ashtonesawyer/ashtonesawyer)
 ## 👨‍🎓 I'm a BS Computer Science student at Portland State University
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning computer security
 - 🔭 I’m currently working on building a [project scheduling program](https://github.com/ashtonesawyer/Project-Scheduler)
 - 📫 Reach me at [ashtonesawyer@gmail.com](mailto:ashtonesawyer@gmail.com)
 
