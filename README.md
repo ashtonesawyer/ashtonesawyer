@@ -2,7 +2,7 @@
 ## 👨‍🎓 I'm a BS Computer Science student at Portland State University
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning computer security
-- 🔭 I’m currently working on building a [project scheduling program](https://github.com/ashtonesawyer/Project-Scheduler)
+- 🔭 I’m currently working on my [CS degree capstone](https://github.com/kingsawpdx/virtualFieldEnvironments)
 - 📫 Reach me at [ashtonesawyer@gmail.com](mailto:ashtonesawyer@gmail.com)
 
 ## 🧰 Languages and Tools:
