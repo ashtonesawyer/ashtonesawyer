@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm [ashtonesawyer](https://github.com/ashtonesawyer/ashtonesawyer)
-## 👨‍🎓 I'm a BS Computer Science student at Portland State University
+## 👨‍🎓 I'm a MS Computer Science student at Portland State University
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning computer security
-- 🔭 I’m currently working on my [CS degree capstone](https://github.com/kingsawpdx/virtualFieldEnvironments)
+- 🔭 I’m currently working on learning [pwning](https://github.com/ashtonesawyer/pwning) (RE, BOF, Shell scripting, etc)
 - 📫 Reach me at [ashtonesawyer@gmail.com](mailto:ashtonesawyer@gmail.com)
 
 ## 🧰 Languages and Tools:
